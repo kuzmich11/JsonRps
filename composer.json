@@ -1,5 +1,5 @@
 {
-    "name": "json-rpc-2.0-bundle",
+    "name": "jsonrpc-bundle",
     "description": "Компонент Symfony для создания контроллеров API по спецификации JSON RPC 2.0",
     "type": "symfony-bundle",
     "license": "MIT",
