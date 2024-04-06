@@ -1,8 +1,9 @@
 {
     "name": "json-rpc-2.0-bundle",
-    "description": "Provides configured StatsdAPIClient",
+    "description": "Компонент Symfony для создания контроллеров API по спецификации JSON RPC 2.0",
     "type": "symfony-bundle",
     "license": "MIT",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=8.1",
         "spatie/data-transfer-object": "^3.9"
